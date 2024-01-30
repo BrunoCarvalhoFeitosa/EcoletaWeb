@@ -62,7 +62,7 @@ Página onde é possível preencher as informações e selecionar a exata locali
 
 ### Hospedagem
 
-O app ainda não foi hospedado em nenhuma plataforma, porém você poderá cloná-lo. Basta acompoanhar o próximo tópico.
+O app ainda não foi hospedado em nenhuma plataforma, porém você poderá cloná-lo. Basta acompanhar o próximo tópico.
 
 
 <!-- GETTING STARTED -->
